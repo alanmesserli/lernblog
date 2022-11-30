@@ -6,31 +6,29 @@ pinned = true
 image = "image-min-min.jpeg"
 description = "Reportage über die internationale Paketverarbeitung im Briefzentrum Zürich-Mülligen."
 +++
-# Die Reise eines Pakets
-
-## Menschenschädel oder Picassos Kunstwerke: alles Mögliche ist Teil des internationalen Postverkehrs. Wir bekommen einen Einblick in die Paketverarbeitung und packen an.
+# Menschenschädel oder Picassos Kunstwerke: alles Mögliche ist Teil des internationalen Postverkehrs. Wir bekommen einen Einblick in die Paketverarbeitung und packen an.
 
 Es ist ein Montagmorgen und wir treffen in Zürich ein. Wir – zwei Schüler des Gymnasiums Kirchenfeld – steigen ins Tram. Unsere heutige Destination ist das Briefzentrum in Zürich-Mülligen. Nach der Ankunft stehen wir vor dem mächtigen Gebäude. Wir sind verabredet mit Rocco Lionetto, dem Teamleiter des Zolldeklarantenteams für die internationale Post. Er ermöglicht uns heute einen Einblick in die internationale Paketsortierung. Wir werden herzlich von ihm empfangen und erhalten Badges, die uns den Eintritt in das Briefzentrum erlauben. Durch Drehtüren gelangen wir in eine der modernsten Anlagen der Schweiz für die internationale Briefverarbeitung. Unsere Führung durch das gewaltige Gebäude beginnt.
 
-### Die Aufgaben der Post
+## Die Aufgaben der Post
 
 Wir treten mit Rocco Lionetto in eine Halle ein. Mitarbeiter sind mit kleinen, manchmal plastikumhüllten Kartonschachteln beschäftigt. Grelle Lichter scheinen von der Decke herab, während Paketlieferbänder im Hintergrund surren. Gelegentlich hört man ein Piepsen. Rocco – wir dürfen ihm Du sagen – erklärt uns, wofür die Post eigentlich verantwortlich ist. Die Post hat unter anderem die Aufgabe, der Schweizer Bevölkerung, Dienstleistungen zu garantieren. Sie übernimmt die Versorgung im Bereich der Logistik: Sendungen werden entgegengenommen, in einer zentralen Anlage sortiert und den jeweiligen Empfängern zugestellt. Dabei spielen Ursprung oder Grösse des Pakets keine Rolle. Von Ali-Express-Paketen aus China bis hin zu Gartenhäusern aus lokalen Baumärkten, alles wird in Zürich-Mülligen verarbeitet. Ausserdem hat die Post die Verpflichtung, Zugangspunkte in erreichbarer Distanz für alle Einwohner:innen der Schweiz zu unterhalten. 90 Prozent der Bevölkerung muss innerhalb von 20 Minuten mit dem öffentlichen Verkehr eine Poststelle erreichen können. Wenn das nicht der Fall ist, muss innerhalb von 30 Minuten eine Stelle mit einem Hausservice verfügbar sein. Darüber hinaus muss pro 15'000 Personen in urbanen Ortschaften mindestens eine Poststelle bestehen. Wenn diese Grenze überschritten wird, muss eine weitere Stelle eröffnet werden. Es steckt also viel mehr Planung hinter der Verteilung von Poststellen, als man denkt. Wir lassen uns von Rocco durch die Abteilung der internationalen Post führen und verschaffen uns einen ersten Eindruck von der Anlage.
 
 Nicht nur die Logistik regelt die Post: Die Post hat ihre eigene Bank, die Postfinance. Sie gibt der Schweizer Bevölkerung die Möglichkeit ein Bankkonto zu eröffnen und anschliessend zu führen. Im Service der Postfinance ist auch die Bareinzahlung und der Bargeldbezug innerhalb der Schweiz inbegriffen. Noch zu beachten ist, dass die Preise dieser Dienstleistungen unter der gesetzlichen Vorgabe des Schweizer Bunds stehen. Das hat beispielsweise zur Folge, dass die Lieferpreise unabhängig von der Distanz etabliert werden.
 
-### Gebührenpflichtig oder nicht?
+## Gebührenpflichtig oder nicht?
 
 Wenn man eine Sendung aus dem Ausland in die Schweiz liefern lässt, ist sie grundsätzlich zoll- und mehrwertsteuerpflichtig. Die Mehrwertsteuer muss jedoch erst bezahlt werden, wenn diese Steuer – die vom Warenwert abhängig ist – über 5 Franken beträgt. Beim Normalsatz von 7.7% ist die mehrwertsteuerpflichtige Einfuhr ab 65 Franken.
 
 Nahrungsmittel, Medikamente, Zeitungen und Bücher haben einen reduzierten Mehrwertsteuersatz von 2.2 Prozent. Die mehrwertsteuerfreie Einfuhr liegt deshalb bei 227.25 Franken. Je nach Ware können unerwartete Gebühren anfallen, welche der Paketempfänger bezahlen muss. Das Deklarieren dieser Zollgebühren übernehmen die Mitarbeiter von Roccos Team im Paketzentrum Zürich-Mülligen, das Rocco uns später mit viel Begeisterung demonstriert.
 
-### Die Anreise eines Pakets
+## Die Anreise eines Pakets
 
 Rocco will uns zeigen, wie internationale Pakete im Briefzentrum ankommen. Wir steigen mit ihm Treppen hinunter, um in die erste Etage zu gelangen. Wir werden zuerst zu den frisch eingetroffenen Ladungen von Briefen und Päckchen geführt. Wir bleiben vor grossen Säcken und Sammelbehältern stehen, die viele kleine Pakete enthalten, die erst kürzlich per Lastwagen vom Flughafen zugeliefert wurden. Rocco erklärt uns, dass Lieferungen direkt von der Grenze ins Briefzentrum gefahren werden, damit nichts auf dem Weg verloren geht. Die Lastwagenfahrer erhalten ein Einführdokument für die Einreise in die Schweiz. In diesem Dokument sind Ursprungsländer und die Destinationen der Güter des Transports festgehalten. Die Fahrer sind deshalb gezwungen, ihre Ladung ohne Zwischenstopp in das Briefzentrum zu liefern. Bei der Ankunft löschen Postmitarbeiter im Briefzentrum diesen Lieferschein aus dem System, womit die Ankunft der Ladung im Netzwerk bestätigt wird.
 
 Die Säcke, welche internationale Pakete enthalten, sind immer mit einem Zettel markiert. Auf diesen Zetteln – welche auch «Tags» genannt werden – steht das Ursprungsland, das Gewicht und der Inhalt des entsprechenden Sacks. Rocco zählt auf uns, woher die Säcke kommen, indem er uns die Kürzel auf einigen Zetteln vorliest. Uns war vorher nicht bewusst, dass derartig grosse Mengen an Paketen aus aller Welt in das Postzentrum gelangen. Rocco erklärt uns, dass diese «Tags» von Mitarbeitern eingescannt werden müssten, da diese Zettel für die Anmeldung im Sortiersystem essenziell seien. Nach Öffnen der Säcke werden die Kleinpakete per Förderband in die nächste Etage befördert, wo sie weiterverarbeitet werden.
 
-### Kontrolle der Pakete
+## Kontrolle der Pakete
 
 Wir begeben uns nun mit Rocco in diese Etage, wo das Zolldeklarantenteam arbeitet. Rocco ist der Teamleiter in diesem Geschoss, deshalb stellt er uns seine Mitarbeiter:innen vor. Ihre Aufgabe ist es, internationale Pakete abzutasten und die erste Unterteilung durchzuführen. Die Pakete werden nach Abgabepflichtigkeit sortiert. Mitarbeiter:innen markieren die Päckchen deshalb mit Aufkleber. Die Herausforderung dabei ist, dass die Mitarbeiter:innen die Pakete nicht aufmachen dürfen. Sie müssen mit Fingerspitzengefühl und Erfahrung urteilen. Ein grüner Aufkleber wird auf ein Paket geklebt, wenn die Ware im Paket leichter als 65 Kilogramm ist oder einen Wert unter 227.25 Franken hat. Grün markierte Pakete sind nicht gebührenpflichtig und werden in den nationalen Bereich weitergeleitet, wo sie dem Empfänger zugestellt werden. Ein blauer Aufkleber wird verwendet, wenn Zweifel über den Inhalt, den Preis oder das Gewicht bestehen. In diesem Fall muss die Ware geöffnet und genauer untersucht werden. Bei Unsicherheit des Warenwerts wird der Empfänger kontaktiert. Falls sich in dem Paket illegale Ware befindet, wird es dem Zoll übergeben. Wenn ein Paket abgabepflichtig ist, wird dieses rot markiert. Die Deklaranten definieren in diesem Fall die Zoll- und Steuerabgaben. Wir beobachten, dass die meisten Pakete, die mit chinesischer Schrift gekennzeichnet sind, einen roten Kleber draufhaben. «Sendungen aus China werden zu 90 Prozent falsch deklariert», sagt Rocco.
 
@@ -39,7 +37,7 @@ Ein Zöllner steht zur Kontrolle der Postmitarbeiter ganz am Ende des Förderban
 
 Rocco zeigt uns am Computer, wie die Abgaben der rot gekennzeichneten Pakete festgelegt werden. In einem Register sind Prozentsätze für jede Art von Ware registriert. Bevor dieses Register erstellt wurde, mussten die Postmitarbeiter ein manuelles Tarifbuch, welches auch scherzhaft «die Bibel» genannt wird, zur Hand nehmen. Mit dem Tarifbuch mussten die Mitarbeiter aus fast 100 Kapiteln die entsprechende Untergruppe eines Produkts finden und schliesslich den entsprechenden Prozentsatz anwenden.
 
-### Illegale Paketinhalte
+## Illegale Paketinhalte
 
 Wir laufen während unserer Tour am Zollamt vorbei. Dies ist ein kleines Büro mitten in der Halle des Briefzentrums. Unser Interesse an illegaler Ware wird damit erweckt. Deshalb fragen wir Rocco, ob wir mit ihm in das Zollbüro hineintreten dürfen. Ein Zollbeamter sagt uns als Beispiel, dass Drogen verbotene Waren seien und mit einer Verhaftung des Empfängers bestraft wird. Ein Empfänger von gefälschter Ware, beispielsweise einer gefälschten Markentasche, kann auch eine Strafe erhalten. Bezahlt die von der Fälschung betroffene Firma den Zoll, so wird die Ware als Fälschung markiert und folgend vernichtet. So stellt sich uns die Frage, wie Versender oder Hersteller der verbotenen Ware zur Strecke gebracht werden?
 
