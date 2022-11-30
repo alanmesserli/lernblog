@@ -3,6 +3,6 @@ title = "Die Reise eines Pakets"
 date = "2022-11-30"
 draft = false
 pinned = true
-image = "image2-min.jpeg"
+image = "image-min-min.jpeg"
 +++
 p
