@@ -46,7 +46,7 @@ Wir begeben uns nun mit Rocco in die Etage, wo das Zolldeklarantenteam arbeitet.
 
 > «Sendungen aus China werden zu 90 Prozent falsch deklariert.»
 >
-> *\- Rocco Lionetto*
+> *Rocco Lionetto*
 
 Ein grüner Aufkleber wird auf ein Paket geklebt, wenn die Ware im Paket leichter als 65 Kilogramm ist oder einen Wert unter 227.25 Franken hat. Grün markierte Pakete sind nicht gebührenpflichtig und werden in den nationalen Bereich weitergeleitet, wo sie dem Empfänger zugestellt werden. Ein blauer Aufkleber wird verwendet, wenn Zweifel über den Inhalt, den Preis oder das Gewicht bestehen. In diesem Fall muss die Ware geöffnet und genauer untersucht werden. Bei Unsicherheit des Warenwerts wird der Empfänger kontaktiert. Falls sich in dem Paket illegale Ware befindet, wird es dem Zoll übergeben. Wenn ein Paket abgabepflichtig ist, wird dieses rot markiert. Die Deklaranten definieren in diesem Fall die Zoll- und Steuerabgaben. Wir beobachten, dass die meisten Pakete, die mit chinesischer Schrift gekennzeichnet sind, einen roten Kleber draufhaben. «Sendungen aus China werden zu 90 Prozent falsch deklariert», sagt Rocco.
 
