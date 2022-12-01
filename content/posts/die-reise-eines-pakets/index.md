@@ -38,7 +38,7 @@ Rocco will uns zeigen, wie internationale Pakete im Briefzentrum ankommen. Wir s
 
 Die Säcke, welche internationale Pakete enthalten, sind immer mit einem Zettel markiert. Auf diesen Zetteln, welche auch «Tags» genannt werden, steht das Ursprungsland, das Gewicht und der Inhalt des entsprechenden Sacks. Rocco zählt uns auf, woher die Säcke kommen, indem er uns die Kürzel auf einigen Zetteln vorliest. Uns war vorher nicht bewusst, dass derartig grosse Mengen an Paketen aus aller Welt in das Postzentrum gelangen. Rocco erklärt uns, dass diese «Tags» von Mitarbeitern eingescannt werden müssten, da diese Zettel für die Anmeldung im Sortiersystem essenziell seien. Nach dem Öffnen der Säcke werden die Kleinpakete per Förderband in die nächste Etage befördert, wo sie weiterverarbeitet werden.
 
-![Der "Tag" am internationalen Transportsack (Bild: Alan Messerli)](image7-min.jpeg "Der \"Tag\" am internationalen Transportsack (Bild: Alan Messerli)")
+![Der "Tag" am internationalen Transportsack (Bild: Alan Messerli)](image7-min.jpeg "Der \\\"Tag\\\" am internationalen Transportsack (Bild: Alan Messerli)")
 
 ## Die Kontrolle der Pakete
 
@@ -47,3 +47,21 @@ Wir begeben uns nun mit Rocco in die Etage, wo das Zolldeklarantenteam arbeitet.
 > «Sendungen aus China werden zu 90 Prozent falsch deklariert.»
 >
 > *\- Rocco Lionetto*
+
+Ein grüner Aufkleber wird auf ein Paket geklebt, wenn die Ware im Paket leichter als 65 Kilogramm ist oder einen Wert unter 227.25 Franken hat. Grün markierte Pakete sind nicht gebührenpflichtig und werden in den nationalen Bereich weitergeleitet, wo sie dem Empfänger zugestellt werden. Ein blauer Aufkleber wird verwendet, wenn Zweifel über den Inhalt, den Preis oder das Gewicht bestehen. In diesem Fall muss die Ware geöffnet und genauer untersucht werden. Bei Unsicherheit des Warenwerts wird der Empfänger kontaktiert. Falls sich in dem Paket illegale Ware befindet, wird es dem Zoll übergeben. Wenn ein Paket abgabepflichtig ist, wird dieses rot markiert. Die Deklaranten definieren in diesem Fall die Zoll- und Steuerabgaben. Wir beobachten, dass die meisten Pakete, die mit chinesischer Schrift gekennzeichnet sind, einen roten Kleber draufhaben. «Sendungen aus China werden zu 90 Prozent falsch deklariert», sagt Rocco.
+
+![Mitarbeiter:innen sind mit der Kontrolle von internationalen Paketen beschäftigt (BIld: Alan Messerli)](image3-min.jpeg "Mitarbeiter:innen sind mit der Kontrolle von internationalen Paketen beschäftigt (BIld: Alan Messerli)")
+
+Wir bekommen eine Chance, unser Fingerspitzengefühl zu testen. Einer der Mitarbeiter gibt uns jeweils ein Paket in die Hand. Wir können den Inhalt schlecht einschätzen. Rocco, der viel Erfahrung hat, zeigt da weniger Mühe. Er errät innerhalb weniger Sekunden, dass es sich um ein Buch handelt.
+
+Ein Zöllner steht zur Kontrolle der Postmitarbeiter ganz am Ende des Förderbands, auf dem sich die Pakete entlang bewegen. Dieser Zöllner dient als letzter Kontrolleur, bevor die Pakete im nationalen Postverkehr weiterverarbeitet werden. Mitarbeiter:innen können sogar bestraft werden, wenn sie falsch gekennzeichnete oder verbotene Ware nicht erkennen und diese von einem Zöllner rausgenommen werden. 
+
+Rocco zeigt uns am Computer, wie die Abgaben der rot gekennzeichneten Pakete festgelegt werden. In einem Register sind Prozentsätze für jede Art von Ware registriert. Bevor dieses Register erstellt wurde, mussten die Postmitarbeiter ein manuelles Tarifbuch, welches auch scherzhaft «die Bibel» genannt wird, zur Hand nehmen. Mit dem Tarifbuch mussten die Mitarbeiter aus fast 100 Kapiteln die richtige Untergruppe eines Produkts finden und schliesslich den entsprechenden Prozentsatz anwenden.
+
+## Illegale Paketinhalte
+
+Wir laufen während unserer Tour am Zollamt vorbei. Dies ist ein kleines Büro in der Mitte der Halle des Briefzentrums. Unser Interesse an illegaler Ware wird damit erweckt. Deshalb fragen wir Rocco, ob wir mit ihm in das Zollbüro hineintreten dürfen. Ein Zollbeamter sagt uns als Beispiel, dass Drogen verbotene Waren seien und mit einer Verhaftung des Empfängers bestraft würden. Ein Empfänger von gefälschter Ware, beispielsweise einer gefälschten Markentasche, kann auch eine Strafe erhalten. Bezahlt die von der Fälschung betroffene Firma den Zoll, so wird die Ware als Fälschung markiert und folgend vernichtet. So stellt sich uns die Frage, wie Versender oder Hersteller der verbotenen Ware zur Strecke gebracht werden.
+
+«Das ist beinahe unmöglich», sagt Rocco, «und in keinem Szenario rentabel.» Der Absender ist beinahe in allen Fällen im Ausland stationiert, das heisst, man müsste sich dafür mit den Staatsgewalten anderer Länder auseinandersetzen. Kriminelle Aktivitäten können also schwer von der Schweiz aus in anderen Ländern geregelt werden. Die einzigen Massnahmen in der Schweiz betreffen somit den Empfänger des Pakets. 
+
+«Nach 30 Jahren findet man keine Paketinhalte mehr merkwürdig.», Rocco Lionetto
