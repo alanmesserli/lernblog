@@ -38,7 +38,7 @@ Rocco will uns zeigen, wie internationale Pakete im Briefzentrum ankommen. Wir s
 
 Die Säcke, welche internationale Pakete enthalten, sind immer mit einem Zettel markiert. Auf diesen Zetteln, welche auch «Tags» genannt werden, steht das Ursprungsland, das Gewicht und der Inhalt des entsprechenden Sacks. Rocco zählt uns auf, woher die Säcke kommen, indem er uns die Kürzel auf einigen Zetteln vorliest. Uns war vorher nicht bewusst, dass derartig grosse Mengen an Paketen aus aller Welt in das Postzentrum gelangen. Rocco erklärt uns, dass diese «Tags» von Mitarbeitern eingescannt werden müssten, da diese Zettel für die Anmeldung im Sortiersystem essenziell seien. Nach dem Öffnen der Säcke werden die Kleinpakete per Förderband in die nächste Etage befördert, wo sie weiterverarbeitet werden.
 
-![Der "Tag" am internationalen Transportsack (Bild: Alan Messerli)](image7-min.jpeg "Der \\"Tag\\" am internationalen Transportsack (Bild: Alan Messerli)")
+![Der "Tag" am internationalen Transportsack (Bild: Alan Messerli)](image7-min.jpeg "Der \"Tag\" am internationalen Transportsack (Bild: Alan Messerli)")
 
 ## Die Kontrolle der Pakete
 
