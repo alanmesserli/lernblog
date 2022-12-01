@@ -29,4 +29,21 @@ Die Post regelt nicht nur die Logistik, sondern hat auch ihre eigene Bank, die P
 ## Gebührenpflichtig oder nicht?
 
 Wenn man eine Sendung aus dem Ausland in die Schweiz liefern lässt, ist sie grundsätzlich zoll- und mehrwertsteuerpflichtig. Die vom Warenwert abhängige Mehrwertsteuer muss jedoch erst bezahlt werden, wenn sie über 5 Franken beträgt. Beim Normalsatz von 7.7 Prozent ist die mehrwertsteuerpflichtige Einfuhr ab 65 Franken.
+
 Nahrungsmittel, Medikamente, Zeitungen und Bücher haben einen reduzierten Mehrwertsteuersatz von 2.2 Prozent. Die mehrwertsteuerfreie Einfuhr liegt deshalb bei 227.25 Franken. Je nach Ware können unerwartete Gebühren anfallen, welche der Paketempfänger bezahlen muss. Das Deklarieren dieser Zollgebühren übernehmen die Mitarbeiter von Roccos Team im Paketzentrum Zürich-Mülligen, das Rocco uns später mit viel Begeisterung demonstriert.
+
+## Die Anreise eines Pakets
+
+Rocco will uns zeigen, wie internationale Pakete im Briefzentrum ankommen. Wir steigen mit ihm Treppen hinunter in die erste Etage und werden zuerst zu den frisch eingetroffenen Ladungen von Briefen und Päckchen geführt. Wir bleiben vor grossen Säcken und Sammelbehältern stehen, die viele kleine Pakete enthalten, die erst kürzlich per Lastwagen vom Flughafen zugeliefert wurden. Rocco erklärt uns, dass Lieferungen direkt von der Grenze ins Briefzentrum gefahren werden, damit auf dem Weg nichts verloren geht. Die Lastwagenfahrer erhalten ein Einführdokument für die Einreise in die Schweiz. In diesem Dokument sind Ursprungsländer und die Destinationen der Güter des Transports festgehalten. Die Fahrer sind deshalb gezwungen, ihre Ladung ohne Zwischenstopp in das Briefzentrum zu liefern. Bei der Ankunft löschen Postmitarbeiter im Briefzentrum diesen Lieferschein aus dem System, womit die Ankunft der Ladung im Netzwerk bestätigt wird.
+
+Die Säcke, welche internationale Pakete enthalten, sind immer mit einem Zettel markiert. Auf diesen Zetteln, welche auch «Tags» genannt werden, steht das Ursprungsland, das Gewicht und der Inhalt des entsprechenden Sacks. Rocco zählt uns auf, woher die Säcke kommen, indem er uns die Kürzel auf einigen Zetteln vorliest. Uns war vorher nicht bewusst, dass derartig grosse Mengen an Paketen aus aller Welt in das Postzentrum gelangen. Rocco erklärt uns, dass diese «Tags» von Mitarbeitern eingescannt werden müssten, da diese Zettel für die Anmeldung im Sortiersystem essenziell seien. Nach dem Öffnen der Säcke werden die Kleinpakete per Förderband in die nächste Etage befördert, wo sie weiterverarbeitet werden.
+
+![Der "Tag" am internationalen Transportsack (Bild: Alan Messerli)](image7-min.jpeg "Der \\"Tag\\" am internationalen Transportsack (Bild: Alan Messerli)")
+
+## Die Kontrolle der Pakete
+
+Wir begeben uns nun mit Rocco in die Etage, wo das Zolldeklarantenteam arbeitet. Rocco ist der Teamleiter in diesem Geschoss, deshalb stellt er uns seine Mitarbeiter:innen vor. Ihre Aufgabe ist es, internationale Pakete abzutasten und ihren Inhalt abzuschätzen, da durch ihn die Abgabepflichtigkeit der Pakete bestimmt wird. Nach diesem Kriterium werden die Pakete ein erstes Mal unterteilt und mit verschiedenfarbigen Klebern markiert. Die Herausforderung dabei ist, dass die Mitarbeiter:innen die Pakete nicht aufmachen dürfen. Sie müssen mit Fingerspitzengefühl und Erfahrung urteilen.
+
+> «Sendungen aus China werden zu 90 Prozent falsch deklariert.»
+>
+> *\- Rocco Lionetto*
