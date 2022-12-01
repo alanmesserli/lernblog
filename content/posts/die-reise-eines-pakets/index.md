@@ -6,7 +6,9 @@ pinned = true
 image = "image-min-min.jpeg"
 description = "Reportage über die internationale Paketverarbeitung im Briefzentrum Zürich-Mülligen."
 +++
-# Menschenschädel oder Picassos Kunstwerke: alles Mögliche ist Teil des internationalen Postverkehrs. Wir bekommen einen Einblick in die Paketverarbeitung und packen an.
+{{<lead>}}
+Menschenschädel oder Picassos Kunstwerke: alles Mögliche ist Teil des internationalen Postverkehrs. Wir bekommen einen Einblick in die Paketverarbeitung und packen an.
+{{<lead>}}
 
 Es ist ein Montagmorgen und wir treffen in Zürich ein. Wir – zwei Schüler des Gymnasiums Kirchenfeld – steigen ins Tram. Unsere heutige Destination ist das Briefzentrum in Zürich-Mülligen. Nach der Ankunft stehen wir vor dem mächtigen Gebäude. Wir sind verabredet mit Rocco Lionetto, dem Teamleiter des Zolldeklarantenteams für die internationale Post. Er ermöglicht uns heute einen Einblick in die internationale Paketsortierung. Wir werden herzlich von ihm empfangen und erhalten Badges, die uns den Eintritt in das Briefzentrum erlauben. Durch Drehtüren gelangen wir in eine der modernsten Anlagen der Schweiz für die internationale Briefverarbeitung. Unsere Führung durch das gewaltige Gebäude beginnt.
 
