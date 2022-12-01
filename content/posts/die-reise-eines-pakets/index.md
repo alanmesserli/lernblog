@@ -64,4 +64,14 @@ Wir laufen während unserer Tour am Zollamt vorbei. Dies ist ein kleines Büro i
 
 «Das ist beinahe unmöglich», sagt Rocco, «und in keinem Szenario rentabel.» Der Absender ist beinahe in allen Fällen im Ausland stationiert, das heisst, man müsste sich dafür mit den Staatsgewalten anderer Länder auseinandersetzen. Kriminelle Aktivitäten können also schwer von der Schweiz aus in anderen Ländern geregelt werden. Die einzigen Massnahmen in der Schweiz betreffen somit den Empfänger des Pakets. 
 
-«Nach 30 Jahren findet man keine Paketinhalte mehr merkwürdig.», Rocco Lionetto
+> «Nach 30 Jahren findet man keine Paketinhalte mehr merkwürdig.»
+>
+> *Rocco Lionetto*
+
+Es könne auch der Fall sein, dass der Empfänger mit den Paketinhalten nichts zu tun habe, sagt Rocco. Es kann beispielsweise vorkommen, dass ein Paket als Sabotagemittel zugestellt wird. Da könne jeder zum Opfer einer solchen Aktion werden und somit unschuldig bestraft werden. Falls Zweifel über den Inhalt oder über den Absender bestehen, wird empfohlen, das Fremdpaket nicht anzunehmen. Denn ohne eine Unterschrift des Empfängers kann die Polizei nicht einschreiten. Wir fragen daher Rocco nach obskuren Gegenständen, die in Paketen aufgefunden werden. Er meint: «Nach 30 Jahren findet man keine Paketinhalte mehr merkwürdig.» Alles kann Teil des Postverkehrs sein. Als Beispiele zählt er Menschenschädel, in Alkohol getränkte Schlangen, lebendige Schildkröten oder Uhren im Wert von Millionen auf.
+
+Zum Abschluss warnt uns Rocco vor Bestellungen bei nicht vertrauenswürdigen Onlineshops mit fast unerklärlich tiefen Preisen. Die Domain einer Website kann von irgendjemandem erworben werden. Eine «.ch» Endung einer Website bedeutet somit in keiner Weise, dass die Firma aus der Schweiz stammt. Deshalb teilt uns Rocco mit, dass er beim Onlineeinkauf immer den Hintergrund der Website recherchiert und auf merkwürdiges Verhalten achtet.
+
+Mit diesen Worten ist das Interview abgeschlossen. Rocco begleitet uns zur Empfangstheke, wo wir unsere Badges abgeben. Zum Schluss bedanken wir uns bei Rocco für die Möglichkeit einer Führung durch das Briefzentrum und schenken ihm als Dankeschön eine herzförmige Schokoladentafel. Mit dieser Geste zaubern wir Rocco ein Lächeln ins Gesicht. Wir verabschieden uns von ihm und verlassen das Gebäude. 
+
+Einen Tag im Briefzentrum zu verbringen hat uns ermöglicht, jegliche Prozesse, die hinter einer Paketbestellung stecken, mitzuerleben und einen Einblick in die internationale Paketverarbeitung zu bekommen. Dieses einmalige Ereignis werden wir nicht so schnell vergessen.
